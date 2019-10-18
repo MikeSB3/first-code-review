@@ -10,7 +10,7 @@ h1 {
   display: inline-block;
 }
 
-img {
+.michael {
   height: 15%;
   width: 12%;
   display: inline-block;
@@ -42,5 +42,16 @@ img {
 .bottom {
   margin: 40px 0px;
   border-top: 2px solid #F5F5F5;
-  padding-top: 20px;
+  padding-top: 0px;
+}
+
+.bottom p {
+float: none;
+
+}
+
+.portland {
+  width: 100%;
+  opacity: 0.7;
+  float: left;
 }

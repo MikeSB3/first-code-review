@@ -8,19 +8,19 @@ This webpage is my personal portfolio that shows information about me such as my
 ## Setup
 * Clone this repository
 * Open with your favorite text editor or IDE.
-* Or click on the link to the GitHub page.
+* Or click on the link for the GitHub page to view.
 
 ## GitHub Page
 coming soon
 
 ## Technologies Used
-HTML
-CSS
-Bootstrap
+* HTML
+* CSS
+* Bootstrap
 
 ## Support and Contact info
 Contact Michael Berryman at berryman.michael@yahoo.com for any questions or issues.
 
 ## Legal
-_Copyright (c) 2019 Michael Berryman All Rights Reserved._
+_Copyright (c) 2019 Michael Berryman All Rights Reserved._  
 This software is licensed under the MIT license.
