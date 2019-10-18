@@ -1,0 +1,11 @@
+h1 {
+  display: inline-block;
+}
+
+img {
+  height: 18%;
+  width: 14%;
+  display: inline-block;
+  margin-left: 30%;
+  border-radius: 10px;
+}
