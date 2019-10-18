@@ -1,3 +1,7 @@
+html {
+  box-sizing: border-box;
+}
+
 h1 {
   display: inline-block;
 }
@@ -7,5 +11,24 @@ img {
   width: 14%;
   display: inline-block;
   margin-left: 30%;
+  border-radius: 10px;
+}
+
+.project-left {
+  box-sizing: inherit;
+  display: inline-block;
+  border: 2px solid #D9EDF7;
+  padding: 3%;
+  margin-left: 10%;
+  border-radius: 10px;
+}
+
+.project-right {
+  box-sizing: inherit;
+  display: inline-block;
+  float: right;
+  border: 2px solid #D9EDF7;
+  padding: 3%;
+  margin-right: 10%;
   border-radius: 10px;
 }
