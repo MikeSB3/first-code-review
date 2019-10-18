@@ -26,6 +26,21 @@ img {
   font-weight: bold;
 }
 
+.panel-body ol li{
+  line-height: 2em;
+}
+
+.projects {
+  padding-top: 10px;
+  padding-bottom: 47px;
+}
+
+.projects ol li{
+  line-height: 4em;
+}
+
 footer {
   margin: 40px 0px;
+  border-top: 2px solid #F5F5F5;
+  padding-top: 20px;
 }
