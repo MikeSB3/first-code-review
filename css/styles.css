@@ -1,5 +1,4 @@
 html {
-  box-sizing: border-box;
   font-family: sans-serif;
 }
 
@@ -19,30 +18,13 @@ img {
   border-radius: 10px;
 }
 
-/*
-.project-left {
-  box-sizing: inherit;
-  display: inline-block;
-  border: 2px solid #D9EDF7;
-  padding: 3%;
-  padding-top: 0%;
-  margin-left: 5%;
-  border-radius: 10px;
-  background-color: #FFF;
+.about {
+  line-height: 2.5em;
 }
 
-.project-right {
-  box-sizing: inherit;
-  display: inline-block;
-  float: right;
-  border: 2px solid #D9EDF7;
-  padding: 3%;
-  padding-top: 0%;
-  margin-right: 5%;
-  border-radius: 10px;
-  background-color: #FFF;
+.travel {
+  font-weight: bold;
 }
-*/
 
 footer {
   margin: 40px 0px;
