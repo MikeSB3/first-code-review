@@ -8,10 +8,10 @@ This webpage is my personal portfolio that shows information about me such as my
 ## Setup
 * Clone this repository
 * Open with your favorite text editor or IDE.
-* Or click on the link for the GitHub page to view.
+* Or click on the link for the GitHub pages to view.
 
-## GitHub Page
-coming soon
+## GitHub Pages
+https://mikesb3.github.io/first-code-review/
 
 ## Technologies Used
 * HTML
